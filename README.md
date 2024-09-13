@@ -1,5 +1,7 @@
 # Exp:2c SIMULATING ARP /RARP PROTOCOLS
-## AIM
+### Name:Daksha Subbaian
+### Register Number:212223230036
+## AIM:
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
 ## Client
